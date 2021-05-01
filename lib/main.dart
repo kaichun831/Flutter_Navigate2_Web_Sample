@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       title: "Router",
       routeInformationProvider:PlatformRouteInformationProvider(
         initialRouteInformation: RouteInformation(
-          location: '/ㄕ',
+          location: '/',
         )
     ),
       routerDelegate: WebRouterDelegate(),
